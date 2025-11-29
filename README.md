@@ -196,7 +196,7 @@ while read USER; do
     echo "Created user: $USER"
 done < "$USER_LIST"
 ```
-
+[IMG-20251129-WA0016](https://github.com/user-attachments/assets/fb1ca817-f137-459d-a138-55340d1738dd)
 ---
 
 # ✅ **4. Supporting Files**
@@ -213,8 +213,8 @@ DevOps Linux Challenge
 student1
 student2
 student3![IMG-20251129-WA0011](https://github.com/user-attachments/assets/ea43a24c-0ff7-476e-ae33-3383d0a3d5f0)
-
-```
+![IMG-20251129-WA0017](https://github.com/user-attachments/assets/20549e56-f705-4bec-be0d-3520626dee17)
+![IMG-20251129-WA0019](https://github.com/user-attachments/assets/2299b94d-157d-4d4b-b1f4-f0a37a539063)
 
 You can add more usernames.
 
@@ -236,10 +236,7 @@ To kill it:
 ```bash
 ps aux | grep timestamp.txt
 kill <PID>
-![IMG-20251129-WA0016](https://github.com/user-attachments/assets/fb1ca817-f137-459d-a138-55340d1738dd)
-![IMG-20251129-WA0017](https://github.com/user-attachments/assets/20549e56-f705-4bec-be0d-3520626dee17)
-![IMG-20251129-WA0018](https://github.com/user-attachments/assets/e07ef409-f53b-49be-b0b6-f3655c004835)
-![IMG-20251129-WA0019](https://github.com/user-attachments/assets/2299b94d-157d-4d4b-b1f4-f0a37a539063)
+
 ![IMG-20251129-WA0020](https://github.com/user-attachments/assets/d2866850-684b-4b80-8409-41a2675a6647)
 ![IMG-20251129-WA0021](https://github.com/user-attachments/assets/892a845c-70df-41e2-bc25-6872bc17dbd9)
 ![IMG-20251129-WA0022](https://github.com/user-attachments/assets/0fb76469-9065-45bf-88a6-fe6ba1b514ad)
